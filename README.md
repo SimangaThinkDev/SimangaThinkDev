@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simangaliso</h1>
 <h3 align="center">A constantly curious software developer from South Africa, and a student at WeThinkCode</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=simangathinkdev" alt="simangathinkdev" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on [SkillSync](https://github.com/SimangaThinkDev/SkillSync)
 - 🌱 I’m currently learning **Django, JavaScript, Java, Django Rest, React**
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/simangaliso-innocent-phakwe/)
