@@ -1,5 +1,5 @@
 # 🧙 About Me:
-I'm currently a dev student at WeThinkCode_, Aspiring Ai Whisperer. Currently learning Data Science to create a strong foundation For my AI journey. I'm open to Mentorship and  training. I'm currently also learning some web dev fundaentals like CSS, HTML5, Javascript, and Django.
+I'm currently a dev student at WeThinkCode_, Aspiring Ai Whisperer. Currently learning Data Science to create a strong foundation For my AI journey. I'm open to Mentorship and  training. I'm currently also learning some web dev fundamentals like CSS, HTML5, Javascript, and Django.
 
 
 ## 🌐 Socials:
