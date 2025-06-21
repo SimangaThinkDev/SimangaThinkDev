@@ -16,7 +16,7 @@ I'm currently a dev student at WeThinkCode_, Aspiring Ai Whisperer. Currently le
 ![](https://github-profile-trophy.vercel.app/?username=SimangaThinkDev&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](myquote)
+![](myquote.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SimangaThinkDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
